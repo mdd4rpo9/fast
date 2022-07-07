@@ -1,0 +1,2 @@
+# fast
+no way
